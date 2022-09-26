@@ -1,6 +1,6 @@
 # Приливная электростанция
 
-##[Пенжинская приливная электростанция](https://dzen.ru/media/id/5e31aa147d508d4055d24fc4/budet-li-postroen-proekt-veka-penjinskaia-prilivnaia-elektrostanciia-buduscee-mirovoi-energetiki-v-rukah-rossii-6300a0e8a28a920bbec2c3c7)
+## [Пенжинская приливная электростанция](https://dzen.ru/media/id/5e31aa147d508d4055d24fc4/budet-li-postroen-proekt-veka-penjinskaia-prilivnaia-elektrostanciia-buduscee-mirovoi-energetiki-v-rukah-rossii-6300a0e8a28a920bbec2c3c7)
 
 ## Виды приливных электростанций
 
